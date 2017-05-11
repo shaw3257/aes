@@ -1,4 +1,4 @@
-## AES Implementation in Ruby
+## Implementation
 This is ruby implementation of the AES [spec](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf). I was always curious how it worked, 
 so this implementation favors deriving all look up tables instead of 
 hardcoding them and avoids guarding against attacks, e.g. timing attacks,
