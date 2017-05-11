@@ -14,7 +14,7 @@ for the sake of educational clarity.
 ```
 
 ### TODO
-1. Support Decryption
-2. Support 256 and 384 bit keys
+1. Add Decryption
+2. Add 256 and 384 bit keys
 
 
